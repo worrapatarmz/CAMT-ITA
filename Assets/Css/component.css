@@ -1,0 +1,15 @@
+/* 
+    Document   : component
+    Created on : 24 ส.ค. 2555, 22:30:12
+    Author     : ArMz
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+.login-textbox{
+    height: 25px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+}
+

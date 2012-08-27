@@ -1,0 +1,21 @@
+/* 
+    Document   : font
+    Created on : 25 ส.ค. 2555, 1:46:50
+    Author     : ArMz
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.font-login{
+    font-family: Tahoma,Arial;
+    font-size: 13px;
+    color: #666666;
+}
+
+.font-login-header{
+    font-family: Tahoma,Arial;
+    font-size: 23px;
+    font-weight: bold;
+    color: #333333;
+}
+

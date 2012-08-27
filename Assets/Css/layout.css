@@ -1,0 +1,17 @@
+/* 
+    Document   : layout.css
+    Created on : 27 ส.ค. 2555, 18:27:10
+    Author     : ArMz
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body{
+    margin: 0px 0px 0px 0px;
+}
+
+
